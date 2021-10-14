@@ -1,8 +1,7 @@
 # FederationDemo
 
 Demonstrates webpack 5 Module Federation with Angular and the Angular Router.
-
-![Workflow Designer](./result.png)
+![Screenshot from 2021-10-14 07-22-01](https://user-images.githubusercontent.com/7736046/137337405-c4c90da1-834a-4a50-ae5e-dcfc8c54d4d1.png)
 
 ## Start
 
