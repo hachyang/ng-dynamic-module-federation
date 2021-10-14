@@ -6,10 +6,13 @@ Demonstrates webpack 5 Module Federation with Angular and the Angular Router.
 
 ## Start
 
-- ``npm run build``
-- ``npm run serve:dist``
-- Navigate to shell at http://localhost:5000
-- Navigate to standalone microfrontend at http://localhost:3000
+- ``yarn install``
+- ``ng serve mfe1``
+- ``ng serve mfe2``
+- ``ng serve shell``
+- Navigate to shell at http://localhost:4200
+- Navigate to standalone microfrontend mfe1 at http://localhost:3000
+- Navigate to standalone microfrontend mfe2 at http://localhost:3001
 
 ## Disclaimer
 
